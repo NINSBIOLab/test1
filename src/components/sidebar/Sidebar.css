@@ -1,0 +1,8 @@
+.sidebar {
+    min-width: 80px;
+    max-width: 80px;
+    background: #000;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
